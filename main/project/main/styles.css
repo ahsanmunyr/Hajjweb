@@ -1,0 +1,21 @@
+.project {
+    width: 100%;
+    min-height: 100vh;
+    opacity: 5%;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.5;
+    position: fixed;
+}
+
+body {}
+
+#heada {}
+
+#link {
+    text-decoration: none;
+    color: #000000;
+}

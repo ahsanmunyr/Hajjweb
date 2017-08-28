@@ -1,0 +1,118 @@
+.bachground_image {
+    width: 100%;
+    min-height: 100vh;
+    opacity: 5%;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.5;
+    position: fixed;
+}
+
+body {
+    background-color: #36312e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img-circle {
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    width: 150px;
+    height: 200px;
+    opacity: 0.7;
+    position: inherit;
+    padding-left: 2%;
+    padding-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+
+hr {
+    color: #d9fdfb;
+}
+
+.education {}
+
+p {
+    font-size: 1em;
+}
+
+.introd {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ecffff;
+    position: absolute;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#div {
+    align-content: inherit;
+    min-height: 150px;
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle
+}
+
+.h2 {
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* Education */
+
+.educate {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ecffff;
+    text-align: left;
+}
+
+#hr {
+    width: 50%;
+}
+
+.li {
+    list-style-type: armenian;
+    align-content: fixed;
+    text-align: left;
+    min-height: 150px;
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img {
+    margin: 2%;
+}
+
+#skill {
+    width: 20%;
+}
+
+.new {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: fixed;
+    min-height: 150px;
+    min-width: 150px;
+}
+
+.footer {
+    padding-bottom: 30%;
+}
+
+.home {
+    image-orientation: unset;
+}

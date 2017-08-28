@@ -1,0 +1,130 @@
+
+
+body{
+    background-size:100%;
+    background-image: url('images/hajj.jpg' ) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body:active{
+    
+ opacity: 0.1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+.a{
+    border: 3px double black;
+   background-color:#ffffff;
+   border-radius: 15px;
+   margin-left:15%;
+    margin-right:15%;
+    position:center;
+    
+   display: block;
+  position: relative;
+}
+
+.b{
+   
+    width:0px auto;
+    background-color:#ffffff;
+    align-content:center;
+    text-align: center;
+    align-self:center;
+
+}
+.as{
+    background:#ffffff;
+    align-content:center;
+    text-align: center;
+    width:0px auto;
+    position:center;
+    margin-left:15%;
+    margin-right:15%;
+   
+}
+.imgtag{
+    margin-left:30%;
+    background-attachment: fixed;
+    width:30%;
+    height:13%;
+    min-width:10%;
+    max-width:30%;
+    min-height:8%;
+    max-height:15%;
+       
+
+}
+
+.imgcover{
+    background-attachment: fixed;
+    width:100%;
+    min-width:50%;
+    max-width:100%;
+    align-content: center;
+    text-align: center;
+    align-self: center;
+}
+.hr{
+    border:1px solid;
+}
+#hr1{
+   font-family:'Arial Unicode MS';
+}
+.a1{
+   font-family:'Arial Unicode MS';
+    margin-left:3%;
+    margin-right:initial;
+    align-self:center;
+}
+.a2{
+    text-decoration: none;
+    color:black;
+    margin: 6px;
+
+}
+
+.a2:visited{
+    color:navy;
+}
+.a2:hover{
+    color: green;
+}
+
+
+
+.io{
+   border: 3px groove #efe0e0;
+  
+   font-family:'Arial Unicode MS';
+    margin-left:25%;
+    margin-right:25%;
+}
+.ii{
+   
+   font-family:'Arial Unicode MS';
+}
+#tours{
+    font-family:'Arial Unicode MS';
+    text-align: left;
+}
+#services{
+    font-family:'Arial Unicode MS';
+    text-align: left; 
+}
+#about{
+    font-family:'Arial Unicode MS';
+    text-align: left; 
+
+}
+#contact{
+    font-family:'Arial Unicode MS';
+    text-align: left; 
+}
+#con{
+    font-family: "Courier New", Courier, monospace;
+}

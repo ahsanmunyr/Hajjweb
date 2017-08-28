@@ -1,0 +1,73 @@
+th{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+sup{
+    font-size: 10px;
+    position: relative; 
+    top: -8px; 
+    right: 24.7px;
+}
+h1{
+    color: aliceblue;
+    font-family: serif;
+    font-size: 72px;
+}
+ul{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+table{
+    background-color: black;
+}
+
+.a1{
+    background-color: #00b6bc;
+}
+.a2{
+    background-color: #1b67c9;
+}
+.a3{
+    background-color: #a166a0;
+}
+.a4{
+    background-color: #f53951;
+}
+.a5{
+    background-color: #004e75;
+}
+.a6{
+    background-color: #572e56;
+}
+.a7{
+    background-color: #f36d4a;
+}
+.a8{
+    background-color: #f5b659;
+}
+.a9{
+    background-color: #00b6bc;
+}
+.b1{
+    background-color: #59cf6e;
+}
+.b2{
+    background-color: #329090;
+}
+.b3{
+    background-color: #859998;
+}
+.b4{
+    background-color: #004e75;
+}
+.b5{
+    background-color: #572e56;
+}
+
+
